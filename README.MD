@@ -1,4 +1,8 @@
 # News Diggers NLP Datathon Project
+![alt text](https://github.com/nickrwu/Datathon-NLP/blob/master/proquest.png)
+
+Detecting advertisement properties in historical copies of the New York Times and the Atlanta Daily World
+
 ## 1. **XML Parser.ipynb** - Retrieving Text from XML Files
 * ### Extracted Properties:
     * Full Text Data
