@@ -1,5 +1,6 @@
 # Historical News NLP Datathon Project
 ![alt text](https://github.com/nickrwu/Datathon-NLP/blob/main/images/proquest.png)
+### [Project Presentation](https://drive.google.com/file/d/1eCpQxbUkfE0DCwmdudNwD_gwyc8UdFV7/view?usp=sharing)
 
 Detecting advertisement properties in historical copies of the New York Times and the Atlanta Daily World
 * Data (Omitted from Repo): Around 10 million historical New York Times and Atlanta Daily World advertisements, articles, cover pages, etc. represented in XML files. The text of these files were produced through OCR software.
@@ -29,3 +30,7 @@ Detecting advertisement properties in historical copies of the New York Times an
   * Recall
   * Precision
   * F1-Score
+
+Team: News Diggers
+
+Thank you to Amy Zgu, Hui Wen Goh, Noah Kurrack, Zixiao Chen
