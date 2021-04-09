@@ -33,4 +33,4 @@ Detecting advertisement properties in historical copies of the New York Times an
 
 Team: News Diggers
 
-Thank you to Amy Zgu, Hui Wen Goh, Noah Kurrack, Zixiao Chen
+Thank you to Amy Zhu, Hui Wen Goh, Noah Kurrack, Zixiao Chen
